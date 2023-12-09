@@ -26,7 +26,9 @@ git clone https://github.com/ErROR97/Forex_Lot_Size_Calculator.git # clone
 
 <details open>
 
-<summary>Inference with detect.py</summary>
+<summary>Example</summary>
+
+
 
 
 
