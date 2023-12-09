@@ -28,6 +28,8 @@ git clone https://github.com/ErROR97/Forex_Lot_Size_Calculator.git # clone
 
 <summary>Example</summary>
 
+![alt text](https://github.com/ErROR97/Forex_Lot_Size_Calculator/blob/main/Example.png?raw=true)
+
 
 
 
